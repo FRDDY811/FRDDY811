@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **alfredo.estmiranda@gmail.com**
 
-- 📄 Know about my experiences [I have experience working on the frontend and backend sides as well as QA.](I have experience working on the frontend and backend sides as well as QA.)
+- 📄 I have experience working on the frontend and backend sides as well as QA.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
