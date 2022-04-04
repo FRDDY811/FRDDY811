@@ -3,14 +3,14 @@
 
 - 💬 Ask me about **JavaScript,TypeScript,React,Node.**
 
-- 📫 How to reach me **alfredo.estmiranda@gmail.com**
+- 📫 How to reach me **alfredo.estmiranda@gmail.com**.
 
 - 📄 I have experience working on the frontend and backend sides as well as QA.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/frddy811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="frddy811" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alfredo esteban miranda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alfredo esteban miranda" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alfredo-esteban-miranda-91740a150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alfredo esteban miranda" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
